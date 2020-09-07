@@ -1,11 +1,11 @@
 #include "DxLib.h"
 
-#define GAME_WIDTH       1280
-#define GAME_HEIGHT      720
+#define GAME_WIDTH       960
+#define GAME_HEIGHT      640
 #define GAME_COLOR       32
 
 #define GAME_WINDOW_BAR  0
-#define GAME_WINDOW_NAME "GAME TITLE"
+#define GAME_WINDOW_NAME "Dxlib_Movie"
 
 #define MOVIE_PATH       ".\\MOVIE\\neko.mp4"
 
